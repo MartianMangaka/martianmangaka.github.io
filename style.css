@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+.top-center-text {
+    font-size: 130px;
+    font-weight: bold;
+    position: absolute;
+    top: 30%; 
+}
+
+.bottom-center-text {
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 45%; 
+}
